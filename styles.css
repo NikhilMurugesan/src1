@@ -1,0 +1,19 @@
+.bkg 
+{
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(olimg.png);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+
+.box
+{
+  width:380px;
+  height: 350px;
+  position: relative;
+  margin: 6% auto; 
+  background-color: rgb(134, 189, 241);
+  padding: 5px;
+}
